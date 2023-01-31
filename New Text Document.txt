@@ -1,0 +1,7 @@
+defaultHTMLValue = "<!DOCTYPE html>\n\n<html>\n\n<!-- Your HTML code goes right here -->\n\n";
+	defaultHTMLValue += "<h1>Hello everybody</h1>\n" ;
+    defaultHTMLValue += "<h2>You are using the <strong><em>ZeroBytes</em></strong> Live editor for HTML, CSS, and Javascript</h2>\n"; 
+	defaultHTMLValue += "<p>Here, you will learn how to code with HTML, CSS, and Javascript by doing simple projects.</p>\n";
+	defaultHTMLValue += "<p>We call our method in learning: <strong><em>Code-to-Learn</em></strong></p>\n\n";
+	defaultHTMLValue += "</html>";
+	
